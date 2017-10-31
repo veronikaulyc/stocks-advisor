@@ -1,0 +1,7 @@
+$ git status
+    [...]
+    # Untracked files:
+    [...]
+    #       README.md
+    #       LICENSE.md
+    [...]
